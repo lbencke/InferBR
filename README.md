@@ -31,7 +31,7 @@ Below the description of each column in the files:
 If you use our dataset please cite us.
 
 ```bibtex
-@inproceedings{frick2022querying,
+@inproceedings{bencke2024lrec,
   title={InferBR: a Natural Language Inference Dataset in Portuguese},
   author={Bencke, Luciana and Pereira, Francielle Vasconcellos and Santos, Moniele Kunrath and Moreira, Viviane Pereira}
   booktitle={Proceedings of the Joint International Conference on Computational Linguistics, Language Resources and Evaluation},
