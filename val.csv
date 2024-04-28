@@ -1,0 +1,647 @@
+,premise,hypothesis,label,reviwers_output,confuse_sentence,low_quality
+0,Não existe um homem descascando uma laranja madura,Não existe um homem descascando uma banana madura,2,Neutral,OK,N
+1,"Para a manutenção da boa saúde é importante ter uma alimentação de qualidade, em vez de quantidade",É melhor comer em grandes quantidades para manter a saúde,0,Contradiction,OK,N
+2,O cão está observando o jardim da varanda no seu deck de descanso,O cão está olhando o jardim a partir da varanda de sua área de descanso,1,Entailment,OK,N
+3,A autora expressa verdades que alguns indivíduos se recusam a reconhecer,A autora esconde verdades que todos estão dispostos a reconhecer,0,Contradiction,OK,N
+4,Dois rapazes estão usando trajes formais em uma cerimônia.,Os rapazes pertencem à mesma família.,2,Neutral,OK,N
+5,Estou segurando uma vasilha de pães de queijo e meu sobrinho expressa sua aprovação,Meu sobrinho gosta de pães de queijo,1,Entailment,OK,N
+6,O garoto pequeno está borrifando perfume,Há uma presença de perfume no ar,1,Entailment,OK,N
+7,Um pequeno garoto está dialogando,Um pequeno garoto está em silêncio,0,Contradiction,OK,N
+8,Uma estátua dourada tem o formato de um cachorro,Uma estátua dourada tem o formato de um gato,0,Contradiction,OK,N
+9,Um cilindro transparente contém um belo jardim de rosas,Há um jardim de rosas dentro de um cilindro transparente,1,Entailment,OK,N
+10,O homem não está colocando sal no peixe,O peixe está sendo preparado sem sal,1,Entailment,OK,N
+11,"Em um manifesto, senadores defendem o isolamento social como medida para conter a epidemia",Os senadores estão apoiando medidas de prevenção contra a epidemia.,1,Entailment,OK,N
+12,Um estetoscópio e um desenho de família estão presentes,"O local está vazio, sem estetoscópio nem desenho de família.",0,Contradiction,OK,N
+13,Uma menina está sentada à mesa escrevendo em alguns cadernos,A menina está estudando para uma prova de matemática,2,Neutral,OK,N
+14,A veterinária recomendou usar shampoo a seco ao invés de dar banho com muita frequência,A veterinária tem muita experiência em cuidados animais,2,Neutral,OK,N
+15,"Três gerações de uma família - mãe, filha e neta - estão compartilhando um abraço caloroso e sorrindo juntas","A mãe, filha e neta estão vestindo roupas semelhantes.",2,Neutral,OK,N
+16,Uma jovem loira de longos cabelos veste um vestido preto com mangas brancas,A jovem loira tem olhos verdes,2,Neutral,OK,N
+17,Uma mulher e uma criança estão deitadas e sorrindo enquanto olham para a câmera,Uma mulher e uma criança estão deitadas e lendo um livro.,2,Neutral,OK,N
+18,Uma criança alegre está brincando no parque,Uma criança está brincando dentro de casa.,0,Contradiction,OK,N
+19,A ave está voando.,A ave está em uma floresta tropical.,2,Neutral,OK,N
+20,Um golden retriever com coleira está com seu dono no estacionamento do shopping,O golden retriever está sozinho no estacionamento do shopping,0,Contradiction,OK,N
+21,O filme é sobre uma história real de um treinador de futebol,O filme ganhou um prêmio de melhor roteiro.,2,Neutral,OK,N
+22,Uma senhora de cabelos prateados está caminhando com seu cão,O céu está nublado e parece que vai chover,2,Neutral,OK,N
+23,Um gato listrado de cinza e branco está brincando com um novelo de lã na carpete macia,Há um gato brincando com um novelo de lã na carpete.,1,Entailment,OK,N
+24,"Um jovem está se divertindo, dançando e sorrindo em um parque durante o outono",O jovem está usando uma jaqueta enquanto dança no parque.,2,Neutral,OK,N
+25,Uma mulher está em uma pose de ioga com as palmas das mãos juntas,Uma mulher está praticando ioga com as mãos juntas,1,Entailment,OK,N
+26,Diversos frascos de perfumes estão dispostos ao lado de várias flores de macieira,Os perfumes têm fragrância de flores de macieira,2,Neutral,OK,N
+27,"Indígenas estão sendo orientados e vacinados, enquanto leitos são preparados para isolamento",Os indígenas estão aprendendo sobre a importância da higiene pessoal,2,Neutral,OK,N
+28,"Sete pessoas estão reunidas em uma mesa diante de um retroprojetor, com várias outras pessoas sentadas em um auditório assistindo",O auditório tem um teto verde.,2,Confusing,P,S
+29,Dois amigos estão percorrendo a estrada em uma motocicleta,Os amigos estão caminhando a pé pela estrada.,0,Contradiction,OK,N
+30,Um homem está surfando com uma prancha,A prancha do homem é verde.,2,Neutral,OK,N
+31,Uma bailarina está de pé no ombro de um acrobata,A bailarina está sentada no ombro de um acrobata,0,Contradiction,OK,N
+32,Nove unidades do salão de beleza estão abrindo e os agendamentos podem ser feitos,O salão de beleza está localizado em uma rua movimentada.,2,Neutral,OK,N
+33,Um homem não está descascando uma batata,O homem está cozinhando um bife,2,Disagreement,OK,S
+34,Uma embalagem de base está sendo espremida pela mulher se maquiando,A mulher que está se maquiando está espremendo uma embalagem de base,1,Entailment,OK,N
+35,As asas de uma borboleta estão sendo perseguidas por um gato no jardim,Um gato está perseguindo algo no jardim,1,Entailment,OK,N
+36,"Uma garota, que é infantil, está correndo no parque com os cabelos ao vento e os olhos brilhando",A garota está sentada quieta dentro de casa,0,Contradiction,OK,N
+37,O menino e a menina estão parados ao lado do riacho.,"O menino e a menina estão em um lugar seco, longe de qualquer curso d'água.",0,Contradiction,OK,N
+38,Não há nenhuma mulher de vestido azul perto de uma bicicleta branca entre algumas flores no parque,Uma mulher de vestido azul está de pé ao lado de uma bicicleta branca no parque,0,Contradiction,OK,N
+39,Um homem com uma luva preta e uma flanela amarela está encerando um carro,O homem está ouvindo música enquanto trabalha,2,Neutral,OK,N
+40,O sol está nascendo sobre uma plantação de trigo,É noite na plantação de trigo.,0,Contradiction,OK,N
+41,"A colmeia organizadora transparente foi preenchida com cintos enrolados, com dois cintos acomodados em cada fileira",A colmeia organizadora está vazia.,0,Contradiction,OK,N
+42,Um rapaz de sunga está deitado na areia da praia,Existe um rapaz deitado na praia.,1,Entailment,OK,N
+43,A mulher está atirando dardos em um alvo,A mulher está em um bar,2,Neutral,OK,N
+44,Uma necessaire estampada com desenhos de raposinhas laranjas é feita de tecido rosa,A necessaire com desenhos de raposas laranjas é feita de tecido rosa.,1,Entailment,OK,N
+45,Um indivíduo usando um uniforme vibra com o braço direito esticado para o alto,O uniforme que o indivíduo está usando é azul.,2,Neutral,OK,N
+46,Existe uma mulher em um estado de meditação,Existe um homem em um estado de contemplação,2,Neutral,OK,N
+47,Nenhuma das mulheres está segurando um telescópio.,Todas as mulheres estão com as mãos livres de telescópios.,1,Entailment,OK,N
+48,Um estetoscópio e um desenho de família estão presentes,Há um desenho de família e um instrumento médico no local,1,Entailment,OK,N
+49,Um casal de idosos está caminhando de mãos dadas na trilha ao lado do lago,O casal de idosos está vestindo roupas de caminhada.,2,Neutral,OK,N
+50,Uma embalagem plástica transparente contém adoçante dietético,O adoçante dietético é branco.,2,Neutral,OK,N
+51,Um pico nevado está sendo conquistado por duas alpinistas,Não há ninguém escalando o pico nevado.,0,Contradiction,OK,N
+52,Alunos estão presentes dentro do campus,Todos os alunos estão numa excursão fora do campus.,0,Contradiction,OK,N
+53,"Pessoas caminham enfileiradas por entre escombros, com muita fumaça",As pessoas estão procurando por sobreviventes nos escombros.,2,Neutral,OK,N
+54,Uma menina de cabelo curto está lendo um livro com muitas páginas,Uma menina de cabelo curto não está lendo um livro,0,Contradiction,OK,N
+55,A projeção de cinco conceitos artísticos prevê como será o mundo após a pandemia,A projeção de cinco conceitos artísticos está prevendo como será o mundo durante a pandemia,0,Contradiction,OK,N
+56,Um caminhão de bombeiros está estacionado em frente a um hospital com bombeiros usando mangueiras para apagar um incêndio,O hospital possui um excelente sistema de combate a incêndios.,2,Neutral,OK,N
+57,Um garoto tem pintas azuis e verdes nos braços,O garoto tem cabelo castanho,2,Neutral,OK,N
+58,A favela é observada à distância em um dia ensolarado com céu azul,O céu está azul durante a visão de uma favela,1,Entailment,OK,N
+59,O casal está escutando música enquanto percorre a avenida principal em um conversível vermelho,O casal está escutando música em um carro,1,Entailment,OK,N
+60,Um gato está capturando um pássaro em pleno voo,O gato é de cor cinza.,2,Neutral,OK,N
+61,O homem está tocando um instrumento musical,Há um homem que está executando um instrumento musical,1,Entailment,OK,N
+62,"Um prato de cerâmica contém filé grelhado com cebola amanteigada, arroz e purê de batata",O filé grelhado é de frango,2,Neutral,OK,N
+63,O gato preto está brincando com um novelo de lã dentro de casa.,O gato preto se diverte brincando com um novelo de lã.,1,Entailment,OK,N
+64,"Quatro amigos estão nadando no mar, longe do penhasco","Quatro amigos estão escalando o penhasco, não estão no mar.",0,Contradiction,OK,N
+65,Uma aluna está sentada enquanto outros alunos assistem em pé,Todos os alunos estão sentados e assistindo a aula,0,Contradiction,OK,N
+66,Uma pessoa está trabalhando no computador,Uma pessoa está digitando um texto em um computador,2,Neutral,OK,N
+67,Um homem está dirigindo um monociclo enquanto veste um traje de mímico e maquiagem em uma avenida agitada,O homem está treinando para um circo itinerante.,2,Neutral,OK,N
+68,Paredes de tijolos cerâmicos estão sendo sustentadas por escoras de madeira que seguram as vigotas das lajes,Não há escoras de madeira sustentando as paredes de tijolos cerâmicos,0,Contradiction,OK,N
+69,As mulheres estão vestindo casacos pesados.,As mulheres estão protegidas contra o frio.,1,Entailment,OK,N
+70,Lixo está acumulado na calçada à beira mar,Existe lixo na calçada próxima ao mar.,1,Entailment,OK,N
+71,Não há nenhum sujeito de jaqueta azul esquiando em uma montanha coberta de neve,Um homem usa uma jaqueta azul enquanto esquia.,0,Contradiction,OK,N
+72,A biblioteca está fechada nos fins de semana,Não é possível visitar a biblioteca no sábado ou domingo,1,Entailment,OK,N
+73,O homem está vestindo um casaco azul.,O homem está usando um par de sapatos pretos.,2,Neutral,OK,N
+74,A mulher está comemorando o Natal com sua família,A mulher está passando o Natal com seus parentes,1,Entailment,OK,N
+75,Três potes de geléia de abóbora com noz sem adição de açúcar estão dispostos em formato de pirâmide sobre uma mesa de madeira,Existem três potes de geléia de abóbora com noz sem adição de açúcar em cima de uma mesa,1,Entailment,OK,N
+76,Um estudo revela que os brasileiros trabalham cinco meses por ano apenas para pagar impostos,Os brasileiros trabalham cinco meses por ano.,2,Neutral,OK,N
+77,Um homem está dirigindo um monociclo enquanto veste um traje de mímico e maquiagem em uma avenida agitada,Alguém está vestido de mímico em uma avenida movimentada,1,Entailment,OK,N
+78,Uma criança está jogando bola no parque,Existe uma criança brincando com uma bola em um espaço ao ar livre,1,Entailment,OK,N
+79,O pneu da viatura está furado,O pneu da viatura é de uma marca famosa.,2,Neutral,OK,N
+80,Dois meninos estão vestidos como seus personagens favoritos e brincando juntos,Há duas crianças se divertindo enquanto usam fantasias de seus personagens preferidos,1,Entailment,OK,N
+81,"A pessoa está desfrutando de suas férias, bebendo chá gelado na piscina, com um chapéu e um vinho",A pessoa tem um cachorro.,2,Neutral,OK,N
+82,Um homem sem camisa está em frente a uma montanha com o céu nublado ao fundo.,Existe um homem sem camisa perto de uma montanha.,1,Entailment,OK,N
+83,Um jovem está executando manobras radicais em um skate,O jovem está andando de skate de maneira segura e sem manobras,0,Contradiction,OK,N
+84,O torneio de dominó da associação acontecerá a noite,O torneio de dominó da associação acontecerá durante o dia,0,Contradiction,OK,N
+85,Um indivíduo está removendo maçãs de uma cesta,Existe uma pessoa que está pegando maçãs de um cesto,1,Entailment,OK,N
+86,Um objeto parecido com uma roda gigante está flutuando no espaço,Existe um objeto no espaço que se assemelha a uma roda gigante,1,Entailment,OK,N
+87,Um pé de maconha e sua flor são capturados,O pé de maconha e sua flor estão em pleno crescimento e não foram capturados.,0,Contradiction,OK,N
+88,Uma modelo veste uma camiseta básica branca com gola canoa enquanto estende roupa,A modelo está nua enquanto estende roupas,0,Contradiction,OK,N
+89,Um tenis branco está pendurado pelo cadarço em um suporte de parede,O tênis está no chão,0,Contradiction,OK,N
+90,O presidente e seus auxiliares estão realizando uma transmissão,O presidente e seus auxiliares estão realizando uma transmissão ao vivo sobre economia.,2,Neutral,OK,N
+91,"Uma mulher morena está vestida com uma blusa de moletom azul, calça de moletom branca e tênis branco",A mulher morena está vestida com um vestido preto elegante.,0,Contradiction,OK,N
+92,Uma pessoa indistinta de camiseta branca está segurando uma carteira de trabalho,Alguém com uma camiseta branca tem uma carteira de trabalho em mãos,1,Entailment,OK,N
+93,Não há nenhuma mulher segurando um leque em sua mão estendida,Há um homem segurando uma bengala.,2,Neutral,OK,N
+94,Um pote de vidro contém vários pedaços de brownie,O pote de vidro está vazio,0,Contradiction,OK,N
+95,Uma visão aérea de um carnaubal revela carnaúbas alinhadas com suas sombras se estendendo pelo chão,Um carnaubal está localizado em um terreno plano e ensolarado,2,Neutral,OK,N
+96,Um aviso de alteração na rota é comunicado aos passageiros,Os passageiros foram informados de que a rota permanecerá a mesma.,0,Contradiction,OK,N
+97,O cachorro está dormindo no sofá,O animal de estimação está repousando em um móvel,1,Entailment,OK,N
+98,O homem assiste a propaganda na TV sobre produtos de limpeza pesada,O homem está pensando em comprar novos produtos de limpeza,2,Neutral,OK,N
+99,Um médico está realizando um exame de nos vasos cervicais do paciente,O paciente tem uma doença cardíaca,2,Neutral,OK,N
+100,Um homem está desenrolando um sanduíche e o saboreando,O homem está em um restaurante,2,Neutral,OK,N
+101,Agentes auxiliam os condutores na realização de uma blitz,Blitz está sendo realizada com a ajuda de agentes,1,Entailment,OK,N
+102,Um cão amarelo está animado e aguardando que seu brinquedo seja jogado,O cão amarelo está animado e esperando pelo seu brinquedo,1,Entailment,OK,N
+103,Um pacote de aveia integral prensada está dentro de um cesto,Existe um pacote de aveia integral prensada em um cesto.,1,Entailment,OK,N
+104,Um indivíduo está emergindo do mar,O indivíduo está se afastando da água.,0,Contradiction,OK,N
+105,Uma garotinha está alegremente vestindo uma saia de balé rosa e está dançando na sala,A garotinha tem uma boneca favorita,2,Neutral,OK,N
+106,Um prato de yakisoba está sendo elaborado,Estão fazendo sushi,0,Contradiction,OK,N
+107,Duas mulheres estão assistindo a uma projeção em uma tela durante uma oficina,Existem cadeiras na sala da oficina,2,Neutral,OK,N
+108,Um homem está cavalgando um cavalo,Um homem está alimentando um cavalo,2,Disagreement,OK,S
+109,Uma criança está dormindo em uma rede rosa,Uma criança está acordada.,0,Contradiction,OK,N
+110,Uma mulher está desfrutando do perfume de flores lilás com os olhos fechados,Uma mulher está cheirando flores lilás.,1,Entailment,OK,N
+111,Um garoto de vermelho está se divertindo no parque com um papagaio de papel,Um garoto de vermelho está em casa.,0,Contradiction,OK,N
+112,Um recipiente contém brigadeiro artesanal de doce de leite cheio de granulados de caramelo,Existe brigadeiro de doce de leite com granulados de caramelo em um recipiente,1,Entailment,OK,N
+113,Pessoas estão realizando atividade física,As pessoas estão usando roupas esportivas,2,Neutral,OK,N
+114,Um homem vestido de Papai Noel segura vários enfeites em uma sala com uma árvore de Natal,Um homem vestido de Papai Noel está em uma casa grande com uma decoração de Natal exuberante,2,Neutral,OK,N
+115,Policiais recolhem peças íntimas,Policiais estão em um local de crime,2,Neutral,OK,N
+116,A mulher está escrevendo em um aparelho antigo para datilografia,A mulher está digitando em um computador moderno,0,Contradiction,OK,N
+117,Soldados estão enfileirados e cabanas estão montadas em uma rua,A rua está vazia e tranquila.,0,Contradiction,OK,N
+118,A turma de alunos teve uma aula prática de Biologia,A turma de alunos não teve nenhuma aula prática,0,Contradiction,OK,N
+119,Existe uma mulher tocando um piano.,A mulher está usando um vestido vermelho.,2,Neutral,OK,N
+120,"Quatro caminhões estão lado a lado, cada um carregado com mísseis balísticos",Existe um total de quatro caminhões com mísseis balísticos,1,Entailment,OK,N
+121,"Uma mulher está relaxada no sofá, conversando amigavelmente","A mulher está tensa no sofá, discutindo agressivamente.",0,Contradiction,OK,N
+122,O cachorro grande está perseguindo um gato,O cachorro grande está dormindo profundamente,0,Contradiction,OK,N
+123,Mãos masculinas estão preparando uma massa de pão,Alguém está cozinhando.,1,Entailment,OK,N
+124,Três mulheres corajosas estão correndo e um caminhão está estacionado logo atrás delas,As mulheres estão paradas e não há veículo perto delas.,0,Contradiction,OK,N
+125,"Um médico está em seu consultório, segurando alguns papéis e conversando com um senhor de cabelos brancos",O senhor de cabelos brancos é aposentado.,2,Neutral,OK,N
+126,Os gatos estão miando no telhado,Existem gatos miando no telhado,1,Entailment,OK,N
+127,A mulher está colhendo uma maçã,A mulher está pegando uma fruta da árvore,1,Entailment,OK,N
+128,"Um pompom de lã vermelho equipado com um elástico, é projetado para ser preso no pelo dos animais de estimação",O pompom de lã vermelho é feito de lã 100% natural,2,Neutral,OK,N
+129,A mãe orienta o filho como usar a escova dental corretamente,O filho está aprendendo a escovar os dentes corretamente.,1,Entailment,OK,N
+130,Os pequenos estão se divertindo em fontes dançantes de praça,Os pais das crianças estão assistindo de perto,2,Neutral,OK,N
+131,"Duas mulheres estão sentadas à beira do lago, segurando varas de pescar",As mulheres estão correndo ao redor do lago.,0,Contradiction,OK,N
+132,Um homem e uma mulher estão sorrindo enquanto seguram um pote de sorvete de melancia,O sorvete de melancia é o sabor favorito do homem e da mulher,2,Neutral,OK,N
+133,O homem expressa seu compromisso de ser tudo para alguém se a conexão for profunda,O homem gosta de ler nas horas vagas.,2,Neutral,OK,N
+134,"Um homem com braços abertos está firmemente enraizado no solo, simbolizando seu retorno às origens",O homem está correndo longe de suas origens,0,Contradiction,OK,N
+135,O feirante alerta os compradores da importância de comprar de produtores locais,O feirante está desencorajando os compradores a comprar de produtores locais,0,Contradiction,OK,N
+136,Um homem está equipado para o trabalho vestindo botas e capacete,O homem está vestindo uma jaqueta azul,2,Neutral,OK,N
+137,Uma mulher está tocando piano.,A mulher está dançando.,0,Contradiction,OK,N
+138,"Um filhote de elefante, ainda desajeitado, caminha pela savana sob a vigilância atenta de sua mãe",O filhote de elefante está se alimentando de arbustos,2,Neutral,OK,N
+139,O homem que está cantando uma canção tem olhos azuis,O homem com olhos azuis está cantando uma canção,1,Entailment,OK,N
+140,Uma pessoa com luvas está segurando uma bolsa de sangue,Uma pessoa sem luvas está segurando a bolsa de sangue,0,Contradiction,OK,N
+141,A mensagem parabeniza os participantes do Enem,A mensagem foi enviada pelo Ministério da Educação.,2,Neutral,OK,N
+142,"Diversos animais como carpa, flamingo, raposa, coruja e capivara habitam o parque",O parque é habitado por uma variedade de espécies de animais.,1,Entailment,OK,N
+143,"O garoto, que é magro, está amarrando o sapato com um laço duplo",O garoto está amarrando o sapato.,1,Entailment,OK,N
+144,A rua está decorada com bandeiras coloridas para as festas juninas,As pessoas estão dançando quadrilha na rua.,2,Neutral,OK,N
+145,Sete sacos coloridos de ioga estão dispostos sobre uma mesa de madeira,Há sacos de ioga sobre uma mesa,1,Entailment,OK,N
+146,Uma mulher está cantando suavemente na praça,Há uma mulher produzindo melodias suaves na praça,1,Entailment,OK,N
+147,O aluno está estudando Matemática.,O aluno está estudando para um teste.,2,Neutral,OK,N
+148,Dez alunos da educação infantil participaram de um recital de poesia,Dez alunos participaram de um recital de música,2,Neutral,OK,N
+149,"Avistamos uma oca, casa tipicamente indígena",Existe uma habitação indígena visível,1,Entailment,OK,N
+150,"Duas almofadas estão presentes, uma branca e a outra com uma estampa de onça pintada",As almofadas são macias.,2,Neutral,OK,N
+151,Um pacote de doces contém biscoitos integrais de maracujá,Os biscoitos integrais de maracujá são feitos com farinha orgânica,2,Neutral,OK,N
+152,Um casal está sentado no banco da praça vendo o movimento,"O casal está de pé na praça, não está sentado.",0,Contradiction,OK,N
+153,Dois homens estão cantando entusiasmados,Ninguém está cantando,0,Contradiction,OK,N
+154,Um estudo afirma que cantar no carro beneficia a saúde,As pessoas geralmente cantam no carro quando estão ouvindo música.,2,Neutral,OK,N
+155,"Rolinhos de tapioca estão recheados com doce de leite e banana, e são polvilhados com granola e castanha de caju","Os rolinhos de tapioca possuem doce de leite e banana dentro, e por cima são cobertos com granola e castanha de caju",1,Entailment,OK,N
+156,"A refeição consiste em arroz com cenoura e passas, batata frita e carne acompanhada de molho branco",A refeição é muito nutritiva,2,Neutral,OK,N
+157,Um casal está percorrendo a avenida principal em um conversível vermelho,O casal está escutando música enquanto percorre a avenida principal em um conversível vermelho,2,Neutral,OK,N
+158,Um gato preto repousa tranquilo sobre as pedras no jardim,O gato preto gosta de caçar ratos.,2,Neutral,OK,N
+159,Um cachorro preto de pequeno porte está nos pés de uma mulher,Uma mulher tem um cachorro preto de pequeno porte perto dela,1,Entailment,OK,N
+160,Esse indivíduo está descascando uma batata,Esse indivíduo não está fazendo nada,0,Contradiction,OK,N
+161,Um tomate está sendo fatiado por um homem,Um homem está cortando uma cebola.,0,Contradiction,OK,N
+162,As mulheres estão vestindo casacos pesados.,As mulheres estão vestindo biquínis.,0,Contradiction,OK,N
+163,A maré alta ocorre na orla da capital,A água do mar sobe na orla da capital,1,Entailment,OK,N
+164,Um barco de papel está sobre a carteira escolar,A carteira escolar é de cor azul.,2,Neutral,OK,N
+165,Um jovem está tocando guitarra em um palco,O jovem está tocando bateria em um palco.,0,Contradiction,OK,N
+166,As folhas são verdes.,A vegetação apresenta tonalidade verde,1,Entailment,OK,N
+167,Dois indivíduos vestidos com casacos de inverno estão na terra branca formando bonecos de neve,Duas pessoas estão fazendo bonecos de neve,1,Entailment,OK,N
+168,Três fotos mostram uma modelo loira exibindo diferentes óculos de sol,A modelo loira está posando com vários óculos de sol.,1,Entailment,OK,N
+169,A turma de um de nossos cursos está com as professoras à frente apresentando um conteúdo,A turma de um de nossos cursos está sem nenhuma professora à frente apresentando um conteúdo,0,Contradiction,OK,N
+170,"O prato de alumínio está cheio de feijão cozido, banana da terra, maxixe e jiló",O prato de alumínio está vazio,0,Contradiction,OK,N
+171,A gestora e os funcionários da escola realizaram uma reunião onde trabalharam em diversos slides,A gestora está planejando implementar novas regras na escola,2,Neutral,OK,N
+172,Implementamos um recurso de acessibilidade para a descrição especial das fotos,Uma nova função para o reconhecimento de voz foi implementada,2,Neutral,OK,N
+173,Um potinho contém casquinha de brownie coberta com calda de doce de leite e farofa de farinha láctea,O potinho não contém calda de doce de leite,0,Contradiction,OK,N
+174,Uma oftalmologista está ao lado de um equipamento usado para detectar problemas de visão,A oftalmologista está preparando-se para examinar um paciente,2,Neutral,OK,N
+175,A capa do álbum apresenta ilustrações dos pontos turísticos,A capa do álbum é de cor vermelha,2,Neutral,OK,N
+176,Os debatedores do evento estão reunidos ao redor de uma mesa,Uma reunião de debatedores está ocorrendo ao redor de uma mesa,1,Entailment,OK,N
+177,"Hoje é o dia especial dedicado ao chocolate, uma comida muito amada pelos brasileiros",Os brasileiros estão celebrando o dia especial dedicado ao chocolate,1,Entailment,OK,N
+178,A publicação na rede social contém dois desenhos com fundo colorido da língua de sinais,A publicação na rede social é feita por um artista talentoso,2,Neutral,OK,N
+179,Uma mão está segurando o cartão do cadastro de pessoa física,A mão está segurando um cartão de crédito.,0,Contradiction,OK,N
+180,Os meninos estão tentando mover uma caixa pesada.,Os meninos estão lidando com uma caixa que tem um peso considerável.,1,Entailment,OK,N
+181,A mulher está de biquíni com os pés sendo levemente atingidos pelas ondas do mar,A mulher está ouvindo música.,2,Neutral,OK,N
+182,Uma garotinha está dançando sob a chuva no parque,Uma criança está se divertindo na chuva,1,Entailment,OK,N
+183,A garota audaz está com medo de andar de skate,A garota audaz está vestindo uma camiseta azul,2,Neutral,OK,N
+184,Um estudo revela que a música pop está se tornando progressivamente mais triste e dançante,O ritmo do reggae tem influência caribenha,2,Neutral,OK,N
+185,Uma profissional de saúde está se preparando para aplicar uma vacina,A profissional de saúde tem cabelos ruivos,2,Neutral,OK,N
+186,O bando de amigos não está de pé em um mirante com um pôr do sol deslumbrante ao fundo,O grupo de amigos está andando pela cidade durante o dia.,2,Neutral,OK,N
+187,Uma mulher está escrevendo uma carta,A mulher poderia estar escrevendo uma carta de amor.,2,Neutral,OK,N
+188,Uma silhueta de uma pessoa de braços abertos é vista contra o pano de fundo de um pôr do sol,A pessoa está de braços cruzados durante o nascer do sol,0,Contradiction,OK,N
+189,Um prato de strogonoff é servido no restaurante,"No restaurante, está sendo servido strogonoff",1,Entailment,OK,N
+190,Um piano está sendo fervorosamente tocado por uma mulher,Ninguém está tocando piano.,0,Contradiction,OK,N
+191,Uma escova de dente com creme dental está presente,Uma escova de dente sem creme dental está presente,0,Contradiction,OK,N
+192,Uma enfermeira está atendendo um paciente em uma unidade de saúde,Nenhum paciente está sendo atendido por uma enfermeira,0,Contradiction,OK,N
+193,Um homem está algemado com as mãos para trás,O homem algemado está usando um terno preto,2,Neutral,OK,N
+194,Uma mulher está equipando uma criança com um capacete de segurança,Uma mulher está tirando o capacete da criança,0,Contradiction,OK,N
+195,Um folheto contém dicas sobre a prevenção de doenças respiratórias,O folheto não possui nenhuma informação sobre a prevenção de doenças,0,Contradiction,OK,N
+196,O livro é vendido nas lojas.,O livro tem uma capa vermelha.,2,Neutral,OK,N
+197,Um homem de cabelos brancos está usando binóculos para olhar para longe,O homem de cabelos brancos gosta de observar pássaros.,2,Neutral,OK,N
+198,Uma mulher descalça está conduzindo um burro que está carregando um carrinho de mão ao longo de uma trilha de terra,A mulher gosta de animais.,2,Neutral,OK,N
+199,Uma mulher sorridente com uma fita métrica ao redor dos ombros está em um ateliê de costura,"A mulher não está em um local de trabalho, não tem uma fita métrica e não está sorrindo.",0,Contradiction,OK,N
+200,Não há ninguém correndo livremente em um campo florido,O campo florido tem muitas borboletas.,2,Disagreement,OK,S
+201,Uma raposa está pulando em um campo coberto de geada,A raposa está descansando no campo coberto de geada.,0,Contradiction,OK,N
+202,Uma baguete cortada ao meio e coberta com requeijão está na chapa,Uma baguete com requeijão está sendo aquecida,1,Entailment,OK,N
+203,Uma menina negra está vestida com girassóis na roupa e no cabelo,A menina está vestida com motivos de girassóis,1,Entailment,OK,N
+204,Um carro verde militar está estacionado com montanhas ao fundo,Existe um carro estacionado perto de montanhas.,1,Entailment,OK,N
+205,"Quatro crianças escolares estão deitadas no chão, desenhando rostos em um boneco de papel e interagindo entre si",As crianças estão interagindo enquanto realizam uma atividade artística no chão,1,Entailment,OK,N
+206,Um garoto de camiseta azul e máscara de super-herói está posando na praça e as pessoas estão admirando,Ninguém está prestando atenção no garoto de camiseta azul na praça.,0,Contradiction,OK,N
+207,A universidade foi vandalizada ontem a noite,A universidade tem uma biblioteca muito grande.,2,Neutral,OK,N
+208,Os gatos estão dormindo no quintal.,Os gatos estão brincando ativamente no quintal,0,Contradiction,OK,N
+209,Uma profissional está conduzindo uma entrevista sobre a importância do Braille,A profissional usa um relógio de prata.,2,Neutral,OK,N
+210,Duas crianças alegres vestem pijamas com desenhos,As crianças estão vestindo uniformes escolares,0,Contradiction,OK,N
+211,Um gatinho listrado de preto e cinza está enrolado em um cobertor velho na calçada,O gatinho listrado de preto e cinza está no cobertor velho na calçada,1,Entailment,OK,N
+212,O evento foi marcado por uma grande aglomeração de pessoas,O evento reuniu uma grande quantidade de pessoas,1,Entailment,OK,N
+213,Um homem está fazendo uma pausa em seu treino na academia para comer uma barrinha de cereal,O homem está treinando sem nenhuma pausa para comer.,0,Contradiction,OK,N
+214,Uma criança está andando na areia e está segurando um balde vermelho,A criança tem um irmão mais velho,2,Neutral,OK,N
+215,Uma mulher de vestido vermelho e chapéu de sol e uma mulher de vestido azul e chapéu de sol estão relaxando na praia com duas garrafas de champagne,Uma das mulheres está lendo um livro na praia,2,Neutral,OK,N
+216,Um indivíduo equipado para escalar montanhas está posicionado com determinação diante de uma imponente cordilheira,Uma pessoa preparada para montanhismo está diante de uma cordilheira,1,Entailment,OK,N
+217,Um homem não está cortando uma maçã,O homem está cortando uma maçã.,0,Contradiction,OK,N
+218,As verduras estão sendo picadas na tábua pelo homem,O homem tem uma colher na mão.,2,Neutral,OK,N
+219,Um homem está tocando o violino,O homem está tocando uma peça de Bach.,2,Neutral,OK,N
+220,O homem está trabalhando no cultivo de plantas alimentícias,O homem está trabalhando em um escritório de tecnologia,0,Contradiction,OK,N
+221,O cão está parado no campo,O cão está correndo livremente pelo campo,0,Contradiction,OK,N
+222,Dois homens estão tocando violão e cantando em um palco lotado,Dois indivíduos estão se apresentando em um palco cheio de pessoas,1,Entailment,OK,N
+223,O homem está vestindo um casaco azul.,Existe um indivíduo usando um casaco de cor azul.,1,Entailment,OK,N
+224,Não tem ninguém ajustando as velas de um barco,O barco está ancorado no porto.,2,Neutral,OK,N
+225,A menina está tocando uma música clássica em sua flauta,A menina está tocando uma música pop em sua flauta.,0,Contradiction,OK,N
+226,Os jovens estão nadando na piscina.,A piscina está sendo utilizada por jovens para nadar.,1,Entailment,OK,N
+227,Um médico está verificando a pressão arterial de um paciente,O paciente está tendo sua pressão arterial medida,1,Entailment,OK,N
+228,A mulher está apaixonadamente tocando o piano,O piano está sendo tocado por uma mulher com paixão,1,Entailment,OK,N
+229,Quatro amigos estão conversando na arquibancada de uma quadra esportiva após o término de um jogo,Quatro amigos estão conversando durante um jogo na quadra esportiva,0,Contradiction,OK,N
+230,O indivíduo está em um estúdio de gravação.,"O homem está na rua, não em um estúdio de gravação",0,Disagreement,OK,S
+231,A mulher não está cuidando das plantas naquele momento,A mulher está lendo um livro,2,Neutral,OK,N
+232,Um garotinho está mordendo a metade de um ovo de chocolate,O ovo de chocolate é de chocolate ao leite,2,Neutral,OK,N
+233,Um homem está amarrando sua gravata meticulosamente,A gravata do homem está sendo meticulosamente amarrada,1,Entailment,OK,N
+234,A mulher está se alimentando,A mulher não está comendo nada,0,Contradiction,OK,N
+235,Uma mulher está adicionando uma xícara de chocolate em pó em uma panela de leite fervendo,A mulher não está usando nenhum ingrediente em pó no leite,0,Contradiction,OK,N
+236,Uma moça observa o nascer do sol,Uma moça não está observando o nascer do sol.,0,Contradiction,OK,N
+237,Mais de dez jovens estão realizando um movimento da modalidade Kung Fu,Alguns jovens estão praticando Kung Fu,1,Entailment,OK,N
+238,As espumantes estão dentro de um caixote de madeira crua,As espumantes estão armazenadas em um recipiente de madeira.,1,Entailment,OK,N
+239,Um rio em um dia ensolarado está pronto para proporcionar um momento de relaxamento,Um rio em um dia ensolarado está pronto para causar estresse,0,Contradiction,OK,N
+240,"Uma mulher de cabelos encaracolados senta-se junto a uma mala desgastada, segurando um sinal de papelão dobrado","Uma mulher de cabelos lisos está de pé sem nenhum objeto ao redor, segurando um sinal de neon.",0,Disagreement,OK,S
+241,"Uma mesa está posta com um prato de lagosta, uma taça de vinho e uma cesta de pães",Há uma lagosta em um prato na mesa.,1,Entailment,OK,N
+242,A unha de caranguejo está em um prato,O prato contém uma unha de caranguejo,1,Entailment,OK,N
+243,Uma mulher está pintando um quadro em seu estúdio,A mulher está pintando um quadro de paisagem em seu estúdio,2,Neutral,OK,N
+244,O parque nacional possui muitas árvores nativas da região,O parque nacional não possui árvores da região.,0,Contradiction,OK,N
+245,O gato preto gosta de caçar ratos.,O gato preto tem medo de ratos.,0,Contradiction,OK,N
+246,Não tem ninguém no pico nevado observando a paisagem com uma luneta,Há alguém esquiando na base da montanha.,2,Neutral,OK,N
+247,Carne está sendo assada em uma churrasqueira,Existe uma churrasqueira acesa.,1,Entailment,OK,N
+248,O brechó é um negócio circular,O brechó é um desperdício de recursos.,0,Contradiction,OK,N
+249,Uma corrente e um pingente de borboleta são banhados a ouro e adornados com pedras de zircônia,A corrente e o pingente de borboleta não possuem pedras de zircônia.,0,Contradiction,OK,N
+250,Uma mulher está regando as plantas,A mulher está podando as plantas,0,Contradiction,OK,N
+251,Um gato está escalando a árvore,O gato está correndo pelo jardim,0,Contradiction,OK,N
+252,Os profissionais de enfermagem são parabenizados em reconhecimento ao Dia Internacional do Enfermeiro,Os enfermeiros estão trabalhando no hospital no Dia Internacional do Enfermeiro,2,Neutral,OK,N
+253,"O desafio propõe reduzir a utilização de luz artificial, incentivando o uso da luz natural",O desafio está incentivando a redução no uso de luzes artificiais e o aumento do uso de luz natural,1,Entailment,OK,N
+254,A criança está brincando na areia,A criança não está brincando,0,Contradiction,OK,N
+255,A turma de amigos se encontra reunida em uma sala mal iluminada,Uma turma de amigos está reunida em um lugar com pouca luz,1,Entailment,OK,N
+256,A mulher não está tocando violão,A mulher está praticando uma música no violão,0,Contradiction,OK,N
+257,Um casal está tendo uma conversa descontraída durante a refeição,O casal está brigando durante a refeição.,0,Contradiction,OK,N
+258,O gato não está comendo nada.,O gato está devorando um peixe.,0,Contradiction,OK,N
+259,Não existe nenhum indivíduo com casaco vermelho passeando pela floresta densa,Há um indivíduo com um casaco vermelho passeando na floresta,0,Contradiction,OK,N
+260,"Uma mulher está sorrindo atrás de um balcão que tem bolo, docinhos e bolas douradas","A mulher está chorando e não há bolo, doces nem bolas douradas no balcão.",0,Contradiction,OK,N
+261,Uma mulher está sentada no chão segurando um sanduíche na mão direita,A mulher está de pé e com as mãos vazias.,0,Contradiction,OK,N
+262,Uma família está abrindo ovos de chocolate para celebrar a Páscoa,A família está usando roupas coloridas enquanto abre os ovos de chocolate.,2,Neutral,OK,N
+263,O guerreiro monta um cavalo branco para lutar contra um dragão verde em um estilo de arte infantil,"O guerreiro está a pé, sem montaria, pronto para lutar contra o dragão",0,Contradiction,OK,N
+264,Uma mulher está tocando uma bateria acústica,A mulher toca bateria numa banda de rock,2,Neutral,OK,N
+265,Uma criança está dormindo em uma rede rosa,Uma criança está dormindo.,1,Entailment,OK,N
+266,"A garota está silenciosamente montada na motocicleta, não conversando com ninguém.",A motocicleta que a garota está pilotando é vermelha.,2,Confusing,P,S
+267,Um garoto está vestindo um moletom azul com letras amarelas e está se sentando na areia da praia,Um garoto está de pé na areia da praia,0,Disagreement,OK,S
+268,"Um cachorrinho é visto de costas e de perfil, em pé sobre a grama",O cachorrinho está deitado na areia da praia.,0,Contradiction,OK,N
+269,Um moletom preto de manga comprida está estampado com personagens de uma série famosa,O moletom preto tem imagens de personagens de um show popular.,1,Entailment,OK,N
+270,Dois chopps e uma porção de fritas com carne trinchada estão sendo servidos no bar,O bar tem uma grande variedade de cervejas em seu cardápio.,2,Neutral,OK,N
+271,Existe uma cebola sendo fatiada,A cebola está sendo utilizada para fazer um prato de comida,2,Neutral,OK,N
+272,O guerreiro está cuidando de sua arma,O guerreiro está preparando-se para alguma batalha ou confronto.,1,Entailment,OK,N
+273,Um prato está sendo limpo pelo cachorro,O prato está limpo e intacto,0,Contradiction,OK,N
+274,A mulher de vestido vermelho está cantando jazz no microfone,A mulher de vestido vermelho é uma cantora profissional.,2,Neutral,OK,N
+275,A garrafa de vidro está cheia de água mineral,Há uma garrafa de vidro repleta de água potável,1,Entailment,OK,N
+276,A mulher de vestido floral está caminhando pela feira e está segurando uma cesta de frutas,Nenhuma mulher está carregando uma cesta de frutas na feira.,0,Contradiction,OK,N
+277,Entreguei um retrato meu sorrindo para minha mãe,Não entreguei nenhum retrato para minha mãe.,0,Contradiction,OK,N
+278,Nove associados estão sendo imunizados,As pessoas estão recebendo vacinas,1,Entailment,OK,N
+279,Um homem trajado com um terno refinado está no meio de uma aglomeração urbana e está admirando os arranha-céus,Um homem em trajes casuais está em um ambiente rural tranquilo olhando para as árvores,0,Disagreement,OK,S
+280,Os bombeiros estão trabalhando no local,Os bombeiros estão carregando mangueiras.,2,Neutral,OK,N
+281,"Um bolo de brownie está partido ao meio, com calda de brigadeiro e granulado belga escorrendo pelo centro",O bolo de brownie está inteiro e sem cobertura,0,Contradiction,OK,N
+282,Os bailarinos vestem roupas despejadas e tem os cabelos coloridos,Os bailarinos estão se preparando para uma apresentação.,2,Neutral,OK,N
+283,Um homem está dirigindo uma motocicleta e cai em um enorme buraco,O homem está dirigindo com segurança sua motocicleta.,0,Contradiction,OK,N
+284,A percepção das coisas é influenciada por nossas experiências e visões pessoais,As experiências pessoais sempre resultam em emoções positivas.,2,Neutral,OK,N
+285,Uma mulher morena está equilibrando-se nas barras paralelas de ginástica,A mulher morena tem duas filhas,2,Neutral,OK,N
+286,Uma embalagem de hidratante intensivo para pés exibe um selo feito à mão,A embalagem do hidratante para pés não tem qualquer tipo de selo.,0,Contradiction,OK,N
+287,Agentes auxiliam os condutores na realização de uma blitz,Os condutores estão passando sem serem parados por uma blitz,0,Contradiction,OK,N
+288,Não tem nenhum gato brincando de ioiô,Há um gato brincando com um ioiô,0,Contradiction,OK,N
+289,O ônibus está reduzindo a velocidade na praça.,O ônibus está acelerando na praça.,0,Contradiction,OK,N
+290,Diversos adultos e idosos estão sorrindo,Todos os adultos e idosos presentes estão sérios e não estão sorrindo,0,Contradiction,OK,N
+291,A macaxeira também é chamada de mandioca dependendo da região,A macaxeira é conhecida por diferentes nomes em diferentes localidades.,1,Entailment,OK,N
+292,"Estou segurando um prato contendo pitaia rosa, morango, banana e duas fatias de pão",Estou com sede,2,Neutral,OK,N
+293,Os governadores estão realizando uma reunião,Os governadores não estão em uma reunião,0,Contradiction,OK,N
+294,Uma mulher de vestido azul está de pé ao lado de uma bicicleta branca no parque,A mulher de vestido azul está sentada na bicicleta branca,0,Contradiction,OK,N
+295,Uma cena do filme principal é mostrada no trailer,A cena do filme principal se passa em uma cidade grande.,2,Neutral,OK,N
+296,O homem está usando um terno preto,Alguém está vestindo um terno preto,1,Entailment,OK,N
+297,O homem está se preparando para uma entrevista de emprego,O homem está se arrumando para uma entrevista de emprego,1,Entailment,OK,N
+298,Um menino minúsculo de plástico está em um pequeno barco de brinquedo,Um pequeno boneco de menino de plástico está brincando com um barquinho,2,Neutral,OK,N
+299,Várias cadeiras de rodas estão empilhadas em uma caixa de papelão em um ginásio esportivo,O ginásio esportivo não tem cadeiras de rodas.,0,Contradiction,OK,N
+300,"Uma criança de óculos e vestido branco está sentada, segurando um livro e apertando os lábios com os dentes",A criança está segurando um livro,1,Entailment,OK,N
+301,Uma corrente e um pingente de borboleta são banhados a ouro e adornados com pedras de zircônia,A corrente e o pingente são feitos de prata.,2,Neutral,OK,N
+302,Um homem está sentado em uma escada segurando um copo de leite e uma maçã-verde,O homem está de pé segurando um copo de suco e uma banana.,0,Contradiction,OK,N
+303,A autora recorda o tempo em que era uma criança,A autora não tem lembranças de quando era criança.,0,Contradiction,OK,N
+304,Uma mulher está competindo em um campeonato de skate,A mulher é uma profissional na prática de esportes radicais,2,Neutral,OK,N
+305,O surfista está surfando em uma onda gigante.,O surfista está sentado na areia da praia.,0,Contradiction,OK,N
+306,Uma embalagem plástica transparente contém adoçante dietético,Existe um adoçante dietético dentro de um recipiente plástico.,1,Entailment,OK,N
+307,Um garoto pequeno de tênis vermelho está correndo no parque,O garoto está andando calmamente no parque.,0,Contradiction,OK,N
+308,O álbum contém fotos dos estandes da feira,O álbum não tem fotos de eventos.,0,Contradiction,OK,N
+309,Diversas placas de veículos estão dispostas sobre uma mesa,A mesa está coberta com várias placas de veículos,1,Entailment,OK,N
+310,O local onde o conjunto de amigos se reuniu não tem barulho,O local da reunião do conjunto de amigos é barulhento,0,Contradiction,OK,N
+311,Uma profissional de saúde está se preparando para aplicar uma vacina,A profissional de saúde não está se preparando para aplicar uma vacina,0,Contradiction,OK,N
+312,Uma menina ruiva de azul está segurando um balão vermelho enquanto está sentada em um escorregador,A menina com cabelo vermelho está segurando um objeto colorido enquanto se senta em um playground,1,Entailment,OK,N
+313,O elefante não está comendo na savana,O elefante está se alimentando na savana,0,Contradiction,OK,N
+314,O governador participa de uma reunião,O governador está de férias,0,Contradiction,OK,N
+315,Um gato de pelos brilhantes está saltando agilmente pelos telhados,Um felino está se movendo pelos telhados.,1,Entailment,OK,N
+316,Uma ambulância e um carro de bombeiros estão passando em frente a casa,A casa em frente tem um jardim florido.,2,Neutral,OK,N
+317,Um disco de hóquei está deslizando no gelo,O disco de hóquei está parado.,0,Contradiction,OK,N
+318,"Uma cliente está provando o sorvete que segura em um potinho, em frente ao quiosque",A cliente está experimentando o sorvete em frente ao quiosque.,1,Entailment,OK,N
+319,Uma mulher está usando um colar relicário em formato de coração com acabamento espelhado e uma blusa de renda preta,A mulher está vestindo uma blusa de renda preta e um colar relicário de coração,1,Entailment,OK,N
+320,Um médico está realizando um exame de nos vasos cervicais do paciente,Um médico está realizando um exame de audição no paciente,0,Contradiction,OK,N
+321,"A mulher está de pé, sorrindo e apoiada em suas muletas cor de rosa","A mulher está sentada, claramente insatisfeita e sem qualquer apoio.",0,Contradiction,OK,N
+322,Um skatista está executando uma manobra em um half-pipe coberto de grafites coloridos,"O skatista está apenas observando o half-pipe, não está executando nenhuma manobra.",0,Contradiction,OK,N
+323,A avenida está vazia e ninguém está nela.,A avenida está cheia de carros.,0,Contradiction,OK,N
+324,O sargento está gritando instruções para os novatos,O sargento está em silêncio.,0,Contradiction,OK,N
+325,"Um labrador preto com equipamento de trabalho está sentado na grama, olhando em direção ao observador","Um cachorro da raça labrador, cuja cor é preta e está equipado para trabalho, está sentado na grama olhando em direção ao observador",1,Entailment,OK,N
+326,O rapaz de vermelho está evitando a dançarina com uma estrela no vestido de lantejoulas,O jovem de vermelho está se esquivando da dançarina com um detalhe estrelado em seu vestido brilhante,1,Entailment,OK,N
+327,Os atores da peça e a plateia estão todos dançando no centro do palco,Os participantes da peça estão dançando no palco,1,Entailment,OK,N
+328,Todos os membros do gabinete do senador estão posando juntos para uma foto,Os membros do gabinete do senador estão juntos para uma foto,1,Entailment,OK,N
+329,O autor apresenta a capa artística e diferentes opções de layout para o conteúdo interno,O autor escreveu um romance de mistério.,2,Neutral,OK,N
+330,A criança está fazendo o dever de casa na sala de estudos,A criança está desenhando na sala de estudos,2,Neutral,OK,N
+331,O senhor não está dirigindo corretamente,O senhor está dirigindo de maneira correta.,0,Contradiction,OK,N
+332,"Adultos estão se divertindo com brinquedos infantis como carrinho de rolimã, pipa e bolinhas de sabão","Pessoas mais velhas estão brincando com carrinho de rolimã, pipa e bolinhas de sabão",1,Entailment,OK,N
+333,O gato preto está se divertindo no jardim,O gato preto está dentro de casa,0,Contradiction,OK,N
+334,A loja é especializada em artigos eletrônicos,A loja oferece um ótimo atendimento ao cliente,2,Neutral,OK,N
+335,A janela da cozinha está aberta.,A cozinha está sendo ventilada.,1,Entailment,OK,N
+336,"A pessoa está se sentindo confiante e desfrutando de uma refeição fora de casa, vestindo óculos escuros e exibindo muita atitude","A pessoa está se sentindo segura enquanto come fora de casa, usando óculos escuros e mostrando muita personalidade",1,Entailment,OK,N
+337,Um gato está deitado próximo a um muro em uma rua de paralelepípedo,O gato está correndo no jardim.,0,Contradiction,OK,N
+338,O homem presenteia sua esposa com um colar de pérolas,A esposa do homem recebe um colar de pérolas como presente.,1,Entailment,OK,N
+339,Há um gato preto enorme e um gato branco minúsculo descansando em um telhado de ardósia,O gato preto está ronronando.,2,Neutral,OK,N
+340,Um estudo revela que o cheiro de recém-nascidos é viciante para as mães,O estudo foi conduzido em uma universidade de renome.,2,Neutral,OK,N
+341,Uma pessoa com um cachorro dá dicas sobre o que fazer se o cachorro se soltar da coleira,Alguém está dando conselhos sobre como lidar com cachorros.,1,Entailment,OK,N
+342,Alunos do Ensino Fundamental participaram de um recital de poesia,Um grupo de estudantes recitou poesias.,1,Entailment,OK,N
+343,"A questão levantada sugere que as perturbações diárias possam ser equilibradas através de práticas como comer, fazer sexo ou fazer compras",As perturbações diárias podem ser amenizadas através de atividades prazerosas.,1,Entailment,OK,N
+344,Um gato malhado está deitado em um jardim de flores selvagens,O gato está brincando com uma bola de lã,2,Disagreement,OK,S
+345,Botijões de gás estão empilhados,Não existem botijões de gás empilhados.,0,Contradiction,OK,N
+346,Uma pessoa está na cozinha fazendo salada,A salada está sendo preparada na cozinha por uma pessoa.,1,Entailment,OK,N
+347,Uma cédula de 100 reais está sendo exibida,Uma nota de dinheiro está sendo mostrada,1,Entailment,OK,N
+348,Há dois meninos atrás de uma pilha de caixotes de madeira,Meninos estão escondidos atrás de caixotes de madeira.,1,Entailment,OK,N
+349,"Casal aconchegado na poltrona, aproveitando a vista",O casal está planejando suas próximas férias,2,Neutral,OK,N
+350,Uma modelo está usando um clássico brinco em formato de gota de pérola,A modelo não está usando nada nos brincos.,0,Contradiction,OK,N
+351,Um gato preto está brincando na neve,O gato preto está se divertindo em um ambiente frio.,1,Entailment,OK,N
+352,Um prato rústico contém uma tigela com risoto de açafrão e parmesão ralado,No prato não tem nenhum risoto.,0,Contradiction,OK,N
+353,Uma advogada está sorrindo para a câmera no estúdio de uma rádio,A advogada está sorrindo em um estúdio de rádio,1,Entailment,OK,N
+354,Um homem e uma mulher estão sorrindo enquanto seguram um pote de sorvete de melancia,Um homem e uma mulher estão segurando um pote vazio e estão tristes,0,Contradiction,OK,N
+355,Existem quatro cores disponíveis do pó compacto,Há apenas uma cor disponível do pó compacto,0,Contradiction,OK,N
+356,Um casal está junto a uma mesa preparada com taças e flores,Uma garçonete está servindo vinho em outra mesa próxima,2,Neutral,OK,N
+357,Paredes de tijolos cerâmicos estão sendo sustentadas por escoras de madeira que seguram as vigotas das lajes,As escoras de madeira estão suportando paredes de tijolos cerâmicos e segurando as vigotas das lajes,1,Entailment,OK,N
+358,"Um homem com camiseta vinho passeia com seu cão, ambos de costas",O homem está usando um boné azul,2,Neutral,OK,N
+359,Uma mulher negra sorri ao ver um programa de televisão,A mulher está assistindo um programa de culinária.,2,Neutral,OK,N
+360,O Dia Nacional da Saúde é celebrado num hospital local,O Dia Nacional da Saúde é celebrado numa escola local,0,Contradiction,OK,N
+361,O homem está tocando a flauta,O homem está usando um terno preto,2,Neutral,OK,N
+362,Um par de mocassins azuis estão sobre uma corda enrolada,Nenhum objeto está sobre a corda enrolada.,0,Contradiction,OK,N
+363,A loja é especializada em artigos eletrônicos,A loja vende produtos eletrônicos,1,Entailment,OK,N
+364,Todos os envolvidos estão reunidos discutindo uma saída para o problema,Existe uma mesa no centro da sala onde todos estão reunidos,2,Neutral,OK,N
+365,Os lutadores de boxe não estão competindo,Os lutadores de boxe estão treinando no ginásio.,2,Disagreement,OK,S
+366,A residência está protegida com alarme e segurança particular,A residência possui um sistema de segurança,1,Entailment,OK,N
+367,Três mulheres estão correndo de mãos dadas com três crianças em um local para práticas esportivas,Três mulheres estão assistindo ao jogo com as crianças em um local para práticas esportivas.,0,Contradiction,OK,N
+368,Os jovens estão praticando futebol,Os jovens estão cansados após o treino.,2,Neutral,OK,N
+369,A garota está tocando um piano,A garota toca piano desde os cinco anos de idade.,2,Neutral,OK,N
+370,Uma mulher jovem está usando máscara em um estabelecimento de saúde pública,A mulher jovem está em um estabelecimento de saúde pública,1,Entailment,OK,N
+371,Um gato malhado e cinza está pulando entre os arbustos,O gato está entre os arbustos.,1,Entailment,OK,N
+372,A garota está sentada e não está perseguindo nenhuma mariposa.,A garota está sentada admirando as flores.,2,Neutral,OK,N
+373,Uma mulher está em uma pose de ioga com as palmas das mãos juntas,A mulher está praticando ioga ao ar livre.,2,Neutral,OK,N
+374,Existe uma cebola sendo fatiada,A cebola está sendo cortada em pedaços,1,Entailment,OK,N
+375,"Um manequim está vestido com calça preta, cinto preto e blusa de viscose preta com estampa floral","O manequim está nu e não está vestindo calça preta, cinto preto e blusa de viscose preta com estampa floral",0,Contradiction,OK,N
+376,Os ciclistas estão subindo a montanha de maneira dispersa.,Os ciclistas estão descendo a montanha.,0,Contradiction,OK,N
+377,O poeta argumenta que a interação com uma pessoa pode ser dolorosa ou prejudicial,"A interação com seres humanos pode ser danosa, segundo o poeta",1,Entailment,OK,N
+378,Uma mãe está ensinando seu filho a andar de bicicleta e um garoto está assistindo,Uma mulher está ajudando seu filho a aprender a andar de bicicleta enquanto outro menino observa,1,Entailment,OK,N
+379,"Ele tira uma selfie enquanto trabalha, exibindo um leve sorriso e um olhar sereno",Ele está trabalhando e tirando uma selfie com um sorriso suave,1,Entailment,OK,N
+380,O edifício está em chamas,O edifício está em perfeitas condições,0,Contradiction,OK,N
+381,Uma pessoa está realizando cálculos,Alguém está fazendo um trabalho matemático.,1,Entailment,OK,N
+382,Três perfumes estão dispostos em forma de triângulo e são acompanhados por duas flores amarelas à esquerda,Há dois itens florais amarelos ao lado de três perfumes arranjados triangularmente.,1,Entailment,OK,N
+383,O presidente está participando de uma reunião,O presidente está em um período de férias,0,Contradiction,OK,N
+384,O homem está cozinhando um jantar.,O homem está usando um avental branco.,2,Neutral,OK,N
+385,Uma folha de tecido está sendo costurada pela mulher,A mulher não está fazendo nada.,0,Contradiction,OK,N
+386,Não existe nenhum indivíduo com casaco vermelho passeando pela floresta densa,Existe uma floresta densa sem qualquer presença humana.,2,Neutral,OK,N
+387,O cavalo não está sendo cavalgado pelo homem,O homem está montando o cavalo,0,Contradiction,OK,N
+388,O sapato do look anterior é mostrado em detalhes,O sapato do look anterior não é mostrado,0,Contradiction,OK,N
+389,Uma modelo branca de cabelos loiros está posando com um suéter roxo e saia jeans,A modelo branca de cabelos loiros está num estúdio de fotografia,2,Neutral,OK,N
+390,As meninas estão comendo sorvete na praça,Um menino está andando de bicicleta perto das meninas,2,Neutral,OK,N
+391,"Estou segurando um prato contendo pitaia rosa, morango, banana e duas fatias de pão",Estou segurando um prato vazio,0,Contradiction,OK,N
+392,Um homem não está cortando uma maçã,O indivíduo não está fatiando uma maçã.,1,Entailment,OK,N
+393,Professores da escola assistem a uma palestra de um neurocientista no início da Semana Pedagógica,Os professores da escola estão discutindo sobre a incorporação da neurociência no currículo escolar,2,Neutral,OK,N
+394,Um estudo revela que um terço dos funcionários experimenta situações embaraçosas nas festas corporativas,Alguns funcionários evitam festas corporativas,2,Neutral,OK,N
+395,Uma menina está segurando um balão azul,A menina não está segurando nada.,0,Contradiction,OK,N
+396,Este pássaro está voando,Existe um pássaro em movimento,1,Entailment,OK,N
+397,O skatista está deslizando em uma suave ladeira,O skatista está ouvindo música enquanto desliza.,2,Neutral,OK,N
+398,Não há ninguém tocando violino.,A guitarra está sendo tocada por um homem.,2,Neutral,OK,N
+399,O jogador de futebol está vestido de terno e gravata,O jogador de futebol está usando roupas formais,1,Entailment,OK,N
+400,O garoto está desamarrando o sapato.,O garoto está amarrando o sapato.,0,Contradiction,OK,N
+401,"A equipe uniformizada se posiciona para uma formação variada, com alguns membros de pé e outros agachados",A equipe uniformizada está preparada para jogar futebol.,2,Neutral,OK,N
+402,A empresa de treinamentos avisou que o curso foi adiado,O curso da empresa de treinamentos não vai ocorrer na data prevista,1,Entailment,OK,N
+403,Uma criança está em cima de um skate no cenário,Não há nenhuma criança no cenário.,0,Contradiction,OK,N
+404,Há uma competição de games online acontecendo,Há uma transmissão ao vivo de um jogo de futebol,2,Neutral,OK,N
+405,"Quatro homens estão de pé, posando para uma foto","Quatro homens estão sentados, posando para uma foto.",0,Contradiction,OK,N
+406,A janela da cozinha está aberta.,A janela da cozinha está fechada.,0,Contradiction,OK,N
+407,"Um garoto de moletom, que é verde, está levantando o seu pé",Um garoto está vestindo um moletom verde.,1,Entailment,OK,N
+408,Um estudo afirma que a cerveja pode ser eficaz para aliviar a dor,A cerveja é uma bebida popular em muitos países.,2,Neutral,OK,N
+409,Um grupo de alunos está realizando atividades pedagógicas,Alunos estão envolvidos em tarefas educativas,1,Entailment,OK,N
+410,Um moletom preto de manga comprida está estampado com personagens de uma série famosa,"O moletom preto, que tem personagens de uma série famosa, foi comprado em uma loja de roupas.",2,Neutral,OK,N
+411,Duas meninas não estão brincando no playground,As meninas estão assistindo um filme em casa,2,Neutral,OK,N
+412,O garoto de óculos escuros gosta de nadar no mar.,O garoto de óculos escuros detesta nadar,0,Contradiction,OK,N
+413,Um ônibus está sendo abordado,O ônibus está vazio.,0,Contradiction,OK,N
+414,Costureiras estão engajadas na produção de máscaras,As costureiras estão usando máquinas de costura industriais.,2,Neutral,OK,N
+415,Os dois filhos estão sentados na cadeira de almoço enquanto o narrador segura seu prato de comida saborosa,Os dois filhos estão sentados na cadeira de almoço com o narrador segurando um prato de comida,1,Entailment,OK,N
+416,"Itens históricos do clube, incluindo troféus e uniformes, estão em exibição",Os itens históricos do clube incluem fotografias antigas e itens pessoais dos jogadores,2,Neutral,OK,N
+417,A garota não está brincando em um balanço,A menina está longe do balanço,1,Entailment,OK,N
+418,Um casal de anões está sorrindo,Os anões estão felizes,1,Entailment,OK,N
+419,O evento é sobre o tema hemofilia,O evento tem muitos participantes,2,Neutral,OK,N
+420,Uma mão está estendida entre as grades de uma cela,A cela pertence a uma prisão de segurança máxima.,2,Neutral,OK,N
+421,"Um homem com trajes de alpinismo está imóvel, olhando para a imensidão do pico nevado",Um alpinista está observando o cume nevado,1,Entailment,OK,N
+422,A carga de testes está sendo exibida,A carga de testes é de um equipamento específico.,2,Neutral,OK,N
+423,"A atriz, com cabelos cacheados presos, está aplicando o batom",A atriz tem olhos verdes.,2,Neutral,OK,N
+424,Uma vista aérea revela as folhas de uma planta,As folhas da planta não são visíveis na vista aérea,0,Contradiction,OK,N
+425,Um homem está cavalgando um cavalo,Existe um homem montando um cavalo,1,Entailment,OK,N
+426,O metrô terá estações equipadas com novas portas de plataforma para aumentar a segurança dos vagões,Os vagões de metrô continuarão inseguros mesmo com a instalação de novas portas de plataforma.,0,Contradiction,OK,N
+427,Uma mulher feliz está segurando uma menina sorridente no colo,A mulher está triste segurando uma menina chorando.,0,Contradiction,OK,N
+428,Uma barra de ferramentas está em processo de carregamento,A barra de ferramentas não está completamente carregada.,1,Entailment,OK,N
+429,A parede branca é decorada com três mandalas em MDF preto,A parede branca tem decorações pretas.,1,Entailment,OK,N
+430,"A pessoa está desfrutando de suas férias, bebendo chá gelado na piscina, com um chapéu e um vinho",A pessoa está bebendo chá gelado.,1,Entailment,OK,N
+431,Uma mulher morena veste uma blusa azul céu e calça jeans,A mulher está vestida de azul e jeans.,1,Entailment,OK,N
+432,A mulher está lendo um livro,A mulher está assistindo televisão.,0,Contradiction,OK,N
+433,"Jovens estão se divertindo em uma festa, todos com as mãos para o alto",Ninguém na festa está com as mãos para o alto.,0,Contradiction,OK,N
+434,Um homem está dirigindo um barco à vela,Uma mulher está pescando em um lago,2,Neutral,OK,N
+435,Uma modelo está ao ar livre vestindo short jeans de lavagem clara e um body vermelho,A modelo está vestindo short jeans de lavagem clara e um body vermelho ao ar livre,1,Entailment,OK,N
+436,Uma mulher está fazendo música com duas guitarras,Uma mulher está cantando uma canção com duas guitarras,2,Neutral,OK,N
+437,Uma mão feminina segura uma tigela de açaí,A mão feminina não está segurando nada,0,Contradiction,OK,N
+438,A mulher está lendo um livro,A mulher está ocupada.,1,Entailment,OK,N
+439,Um homem está correndo na praia ao amanhecer,O homem está fazendo exercício físico,1,Entailment,OK,N
+440,A garota de vestido vermelho tem um colar de prata,A menina de roupa colorida de vermelho possui um adorno de prata no pescoço.,1,Entailment,OK,N
+441,"Um homem está sorrindo, revelando seus dentes perfeitamente alinhados",Um homem com dentes perfeitamente alinhados está sorrindo,1,Entailment,OK,N
+442,Um gato com um laço vermelho está perseguindo uma borboleta no quintal,O gato está no quintal.,1,Entailment,OK,N
+443,As informações do sorteio são dadas na página oficial,Os dados do sorteio estão disponíveis na página oficial,1,Entailment,OK,N
+444,Um menino está ao lado de um adulto que carinhosamente coloca a mão em sua orelha,Um menino está próximo a um adulto que faz um gesto de carinho.,1,Entailment,OK,N
+445,A mulher está usando uma mangueira para regar o jardim.,A mulher está usando uma pá para cavar o jardim.,0,Contradiction,OK,N
+446,"Três gerações de uma família - mãe, filha e neta - estão compartilhando um abraço caloroso e sorrindo juntas","A família consiste em uma mãe, filha e neta que estão sorrindo.",1,Entailment,OK,N
+447,O homem está dormindo na cama,O homem está sonhando com um jardim,2,Neutral,OK,N
+448,"Duas crianças, uma vestindo blusa amarela e a outra branca, estão se abraçando e sorrindo",As duas crianças estão brincando em um parque.,2,Neutral,OK,N
+449,"Sete pessoas estão de pé sorrindo, posando para uma foto","Cinco pessoas estão sentadas, sorrindo para uma foto",2,Neutral,OK,N
+450,"Uma criança sorridente está de olhos vendados e com as mãos estendidas, segurando uma banana",A criança está vestindo uma camisa azul.,2,Neutral,OK,N
+451,O skatista está usando um capacete enquanto desliza na pista.,O skatista está usando proteção enquanto pratica.,1,Entailment,OK,N
+452,Uma mulher está vestida e maquiada para um evento,A mulher possui um gato de estimação.,2,Neutral,OK,N
+453,"A mini cidade feliz é preenchida com muitos brinquedos, incluindo casinhas e carrinhos",A mini cidade tem um lago no centro.,2,Neutral,OK,N
+454,O homem está temperando o peixe cuidadosamente,O homem está cozinhando em sua cozinha.,2,Neutral,OK,N
+455,A garota está sentada no sofá mexendo no celular e sorrindo,A garota está triste mexendo no celular,0,Contradiction,OK,N
+456,Uma moça está sentada no banco da praça sob a sombra de uma árvore,A moça no banco da praça está lendo um livro,2,Neutral,OK,N
+457,Uma pizza fechada de parma com queijo brie é apresentada,A pizza apresentada não possui queijo brie nem parma.,0,Contradiction,OK,N
+458,Os atletas da seleção estão no pódio celebrando a vitória com os braços levantados e mãos dadas,Os atletas da seleção são amigos fora do campo,2,Neutral,OK,N
+459,"Três garotos da África Ocidental, dois meninos e uma menina, estão escalando a montanha com um pico coberto de neve",Três crianças da África Ocidental estão vestidas com roupas de frio.,2,Neutral,OK,N
+460,Duas mãos estão unidas pelo dedo mindinho dentro de um coração,Duas mãos estão unidas.,1,Entailment,OK,N
+461,Um alegre grupo de indivíduos está encenando uma luta de esgrima em um palco improvisado,Um grupo de indivíduos está cantando em um palco improvisado,2,Neutral,OK,N
+462,Um instrumento óptico é usado para visualizar fotografias,As fotografias são de paisagens naturais,2,Neutral,OK,N
+463,Uma embalagem de base está sendo espremida pela mulher se maquiando,A mulher não está usando base enquanto se maquia,0,Contradiction,OK,N
+464,Há um gato brincando no jardim,O gato está dormindo dentro de casa,0,Contradiction,OK,N
+465,Três homens vestidos de super-heróis simbolizam nossos programadores,Os programadores são representados por três homens fantasiados de super-heróis,1,Entailment,OK,N
+466,Crianças se divertem comendo uma massa preparada com a assistência de um chef de cozinha,As crianças estão aprendendo a cozinhar com um chef de cozinha.,2,Neutral,OK,N
+467,O símbolo do terceiro chakra é apresentado pela terapeuta,A terapeuta não utiliza símbolos em sua prática.,0,Contradiction,OK,N
+468,O gato branco não está pulando sobre o muro,O gato branco está no mesmo lado do muro,1,Entailment,OK,N
+469,O jovem guitarrista está de pé em um estúdio esperando sua hora de começar a tocar,O guitarrista está esperando para começar a tocar no estúdio.,1,Entailment,OK,N
+470,A mulher de cabelos longos não está esperando na estação de ônibus,Uma mulher de cabelos longos está aguardando a chegada do ônibus na estação.,0,Contradiction,OK,N
+471,A pessoa está vestindo óculos escuros e um jaleco branco,A pessoa está vestida de jaleco branco e óculos escuros.,1,Entailment,OK,N
+472,Um menino está jogando futebol em um campo gramado,O menino está jogando basquete na quadra de concreto,0,Contradiction,OK,N
+473,A modelo está vestindo um cropped azul e encostada em uma escada,A modelo está pensando no que vai jantar depois do ensaio fotográfico.,2,Neutral,OK,N
+474,Dois pássaros estão no tronco de uma árvore,Há pássaros numa árvore.,1,Entailment,OK,N
+475,A mulher está vestindo um vestido azul e botas de cano alto marrom,A mulher está usando botas,1,Entailment,OK,N
+476,Um garoto está separando duas xícaras de farinha,A mãe do garoto está fazendo o jantar,2,Neutral,OK,N
+477,"Duas irmãs estão sentadas de costas uma para a outra, sorrindo","Duas irmãs estão sentadas de costas uma para a outra, expressando felicidade",1,Entailment,OK,N
+478,Um guaxinim está sendo acariciado por um homem,O homem está usando luvas,2,Neutral,OK,N
+479,Pessoas estão em uma cadeira de balanço azul,Existe uma cadeira de balanço azul sendo usada por pessoas,1,Entailment,OK,N
+480,Um homem está tocando violão em um palco,O palco está vazio.,0,Contradiction,OK,N
+481,Uma garota está vestindo uma blusa azul e segura um terço prateado,A garota não está segurando nada em suas mãos,0,Contradiction,OK,N
+482,Um romano está em uma loja de acessórios femininos,Um romano está em uma arena de gladiadores,0,Contradiction,OK,N
+483,Uma camiseta preta de manga curta está estampada com flores,A camiseta estampada com flores é de manga longa.,0,Contradiction,OK,N
+484,"Um gato preto e branco está pulando sobre uma cerca azul, verde e cinza",O gato está pulando.,1,Entailment,OK,N
+485,Um grande gato preto e um pequeno gatinho branco estão sobre um muro de tijolos,Há um gato preto grande e um gatinho branco pequeno sobre um muro de tijolos.,1,Entailment,OK,N
+486,"Uma família composta por um homem, uma mulher e duas crianças está em casa",A família está assistindo televisão.,2,Neutral,OK,N
+487,Uma pessoa está em frente a uma escultura criada a partir de sucatas de caixa de leite,Uma pessoa está em frente a uma escultura feita de mármore,0,Contradiction,OK,N
+488,Mãos seguram um palito e mexem uma tigela contendo uma mistura cor de rosa com glitter dourado,Nenhuma mão está mexendo a mistura cor de rosa com glitter dourado,0,Contradiction,OK,N
+489,"O homem foi à feira e trouxe diversos vegetais orgânicos como brócolis, alface e repolho roxo",O homem não comprou vegetais na feira.,0,Contradiction,OK,N
+490,Um estudo revela que jovens homossexuais têm cinco vezes mais probabilidade de cometer suicídio do que jovens heterossexuais,A taxa de suicídio é maior entre os jovens homossexuais do que entre os jovens heterossexuais.,1,Entailment,OK,N
+491,Um objeto vermelho está sendo chutado por um pequeno ser humano que está se divertindo em uma área de recreação,A criança está calçando tênis de cor azul.,2,Neutral,OK,N
+492,Um pai e seu filho estão realizando um cumprimento de mão,O pai e o filho estão vestindo camisas azuis,2,Neutral,OK,N
+493,Um homem está preparando café,Café está sendo preparado por uma pessoa.,1,Entailment,OK,N
+494,Não tem nenhum homem cortando uma cebola,Não há qualquer pessoa fatiando uma cebola.,1,Entailment,OK,N
+495,Não é possível ver um coala pendurado.,Há um canguru saltando próximo ao local.,2,Neutral,OK,N
+496,Um gato branco está caminhando por um terreno arenoso,Um gato branco está caminhando por uma rua asfaltada,0,Contradiction,OK,N
+497,"Azeite está dentro de um frasco de vidro transparente sobre uma mesa de madeira, com azeitonas ao lado",Há azeitonas ao lado de um frasco de azeite.,1,Entailment,OK,N
+498,A pessoa está com cabelo solto e maquiagem leve,A pessoa está vestindo uma camisa azul e jeans,2,Neutral,OK,N
+499,"O casal está separado, cada um em um canto diferente da sala",Duas pessoas estão em cantos opostos da sala,1,Entailment,OK,N
+500,Não há ninguém no estande na exposição.,O estande na exposição está vazio,1,Entailment,OK,N
+501,"Dentro de um cemitério, uma cruz é vista em um túmulo",A cruz no túmulo é feita de granito cinza.,2,Neutral,OK,N
+502,Paredes de tijolos cerâmicos estão sendo sustentadas por escoras de madeira que seguram as vigotas das lajes,As paredes de tijolos cerâmicos pertencem a uma casa em construção,2,Neutral,OK,N
+503,Três gatinhos brancos estão se divertindo perto de um lago,Há gatinhos brancos brincando perto de um lago.,1,Entailment,OK,N
+504,Várias pessoas estão reunidas para comemorar o aniversário do município,As pessoas não estão reunidas em uma celebração.,0,Contradiction,OK,N
+505,Os indivíduos estão parados sem direção na calçada em frente a uma livraria,Os indivíduos estão parados sem rumo na calçada em frente a uma loja de livros,1,Entailment,OK,N
+506,Uma camiseta preta de manga curta está estampada com flores,A camiseta preta tem um design floral.,1,Entailment,OK,N
+507,Os palestrantes estão ministrando palestras para a plateia,Os palestrantes não estão ministrando palestras,0,Contradiction,OK,N
+508,O parque nacional possui muitas árvores nativas da região,Há muitas árvores frutíferas no parque nacional.,2,Neutral,OK,N
+509,Um homem está se barbeando em frente ao espelho,O espelho está sujo,2,Neutral,OK,N
+510,A pessoa olha apaixonada para uma foto de um antigo amor,A pessoa não está olhando para nenhuma foto.,0,Contradiction,OK,N
+511,"Brigadeiros, churros e crème brûlée estão enfileirados em uma caixa",A caixa está vazia.,0,Contradiction,OK,N
+512,Um homem apaixonado por skate está deslizando pela rampa,O homem apaixonado por skate está parado olhando a rampa,0,Contradiction,OK,N
+513,O gato branco está pulando sobre o muro,O gato branco tem olhos azuis,2,Neutral,OK,N
+514,A veterinária recomendou usar shampoo a seco ao invés de dar banho com muita frequência,A veterinária sugeriu dar banhos com frequência como método de limpeza,0,Contradiction,OK,N
+515,Vários indivíduos estão caminhando em fila ao longo de um cais,Todos os indivíduos estão correndo ao redor do cais,0,Contradiction,OK,N
+516,Vários grupos de pessoas estão conversando e treinando para a apresentação do trabalho final da disciplina,Ninguém está se preparando para a apresentação do trabalho final,0,Contradiction,OK,N
+517,O corpo de uma vítima está sendo transportado,O corpo da vítima está sendo transportado com cuidado,2,Neutral,OK,N
+518,Uma mulher está fazendo um arranjo de flores em uma jarra de vidro,Existe uma mulher criando uma composição floral em um recipiente transparente.,1,Entailment,OK,N
+519,"No último dia da promoção, a compra de quatro batons garante ao cliente uma bolsinha de crochê como brinde","No final da promoção, a compra de quatro cosméticos labiais dá direito a uma bolsinha de crochê como brinde.",1,Entailment,OK,N
+520,O arranha-céu revestido por um arco-íris de matizes está vazio sem ninguém por perto,O arranha-céu colorido está desocupado,1,Entailment,OK,N
+521,Um sanduíche de duas camadas com mussarela derretida é realçado por folhas de orégano fresco,O sanduíche é feito sem queijo.,0,Contradiction,OK,N
+522,O indivíduo está se dirigindo para a montanha,O indivíduo não está indo para a montanha.,0,Contradiction,OK,N
+523,Um menino jovem está brincando com um caminhão de brinquedo no parquinho.,O menino está brincando com um caminhão de brinquedo em casa.,0,Contradiction,OK,N
+524,Um gato está se divertindo no sofá,O gato está no jardim,0,Contradiction,OK,N
+525,"Vista do alto da arquibancada, os judocas estão no tatame",Há uma competição de judô acontecendo.,1,Entailment,OK,N
+526,"A receita de arroz doce inclui cravo, cardamomo e açúcar queimado","O arroz doce é feito com cravo, cardamomo e açúcar queimado.",1,Entailment,OK,N
+527,Vários policiais estão reunidos em um grande círculo,Não existem policiais reunidos formando um círculo,0,Contradiction,OK,N
+528,Está havendo o corte de alhos,Alguém está preparando alho,1,Entailment,OK,N
+529,Uma modelo está vestida com uma calça mostarda e uma blusa de manga longa com estampa floral,A modelo está vestida com uma saia mostarda e uma blusa de manga longa com estampa floral,0,Contradiction,OK,N
+530,Veículos abandonados foram divulgados no aplicativo da polícia,A polícia está tentando localizar os proprietários dos veículos abandonados através do aplicativo,1,Entailment,OK,N
+531,Um médico está segurando um coração vermelho,O médico não tem nada em suas mãos.,0,Contradiction,OK,N
+532,Uma mulher está relaxando,A mulher está lendo um livro,2,Neutral,OK,N
+533,Um garçom estende o braço para frente do balcão segurando um copo de whisky,Um garçom está oferecendo um copo de whisky,1,Entailment,OK,N
+534,Uma médica está utilizando uma máscara enquanto realiza testes,A médica está usando equipamento de proteção azul,2,Neutral,OK,N
+535,"Uma família está dentro do carro, admirando o pôr do sol na estrada","Existe um carro na estrada com uma família dentro dele, apreciando o pôr do sol",1,Entailment,OK,N
+536,Uma mãe comprou um tênis cinza de moletom e um body bege para bebês,Nenhuma roupa de bebê foi comprada,0,Contradiction,OK,N
+537,O homem está colocando tomates na salada.,O homem está preparando uma salada com tomates,1,Entailment,OK,N
+538,Um videogame preto está com um cartucho de um jogo famoso e um controle cinza conectado a ele,O videogame preto pertence a um colecionador de jogos antigos.,2,Neutral,OK,N
+539,O Governo afirma que os recursos para o Bolsa Família estão garantidos,Muitas famílias dependem do programa Bolsa Família.,2,Neutral,OK,N
+540,Há entusiasmo enquanto dois homens cantam,Nenhum homem está cantando,0,Contradiction,OK,N
+541,As mulheres estão conversando,As mulheres estão em silêncio,0,Contradiction,OK,N
+542,Vários grupos de pessoas estão conversando e treinando para a apresentação do trabalho final da disciplina,As pessoas estão se preparando para a apresentação final do curso,1,Entailment,OK,N
+543,"Jovens estão se divertindo em uma festa, todos com as mãos para o alto",A música tocada na festa é pop.,2,Neutral,OK,N
+544,Uma pessoa está utilizando uma furadeira para furar um móvel,Existe uma pessoa operando uma ferramenta elétrica para fazer buracos em um móvel,1,Entailment,OK,N
+545,Uma mulher está usando um vestido vermelho.,Uma mulher está vestindo azul.,0,Contradiction,OK,N
+546,"Uma mulher está sentada à mesa, com as mãos cruzadas, participando de uma conferência",A mulher está participando de uma reunião,1,Entailment,OK,N
+547,Os nadadores estão relaxando na praia,Pessoas estão descansando na areia do mar,1,Entailment,OK,N
+548,Um panetone de pistache possui recheio cremoso verde e cobertura de chocolate branco com raspas de limão,O panetone de pistache não possui cobertura,0,Contradiction,OK,N
+549,"A pessoa está com cabelo afro, apoiando o braço na mesa, tocando o rosto com a mão e sorrindo",A pessoa está com cabelo afro e está olhando para a câmera,2,Neutral,OK,N
+550,A empresa anuncia a contratação de um gerente de Marketing,A empresa está contratando um novo membro para a equipe de Marketing.,1,Entailment,OK,N
+551,O retrato de uma mulher está sendo esboçado por um homem,Uma mulher olha para o mar enquanto seu retrato é esboçado.,2,Neutral,OK,N
+552,Uma mulher é detida e puxada pelos braços por dois policiais,Dois policiais estão contendo uma mulher,1,Entailment,OK,N
+553,Um menino está jogando futebol em um campo de futebol de 5,O menino tem uma bola de futebol nova,2,Neutral,OK,N
+554,Os indivíduos estão comentando sobre as pinturas ao caminhar pelo corredor,Os indivíduos estão silenciosos enquanto observam as pinturas.,0,Contradiction,OK,N
+555,Uma pessoa usa óculos desde a infância,Uma pessoa tem usado óculos por muitos anos,1,Entailment,OK,N
+556,Um homem e uma mulher estão sorrindo enquanto seguram um pote de sorvete de melancia,Um homem e uma mulher estão segurando um pote de sorvete de melancia e estão felizes,1,Entailment,OK,N
+557,O noivo conversa com o padre antes da cerimônia,O noivo está nervoso antes da cerimônia,2,Neutral,OK,N
+558,Três gatos estão brincando juntos.,Não há gatos brincando juntos.,0,Contradiction,OK,N
+559,Duas atletas estão posando com um troféu e medalhas,"Duas atletas estão de mãos vazias, sem troféu e medalhas",0,Contradiction,OK,N
+560,O indivíduo com o casaco vermelho está segurando uma mochila multicolorida,A pessoa com o casaco vermelho tem uma mochila nas mãos,1,Entailment,OK,N
+561,"A gata mãe está deitada no chão alimentando seus quatro filhotes, todos cor de café com leite",Os filhotes de gato estão sendo alimentados por sua mãe.,1,Entailment,OK,N
+562,"Um casal está observando seu bebê, que retribui com um olhar brilhante","Um casal está olhando para o seu bebê, que olha de volta com um brilho nos olhos",1,Entailment,OK,N
+563,As crianças estão chegando à escola carregando suas mochilas,As crianças estão vestindo uniformes escolares,2,Neutral,OK,N
+564,Um tatu de coloração marrom e com carapaça feita de placas duras é visto entre pedras,O tatu está procurando comida,2,Neutral,OK,N
+565,A publicação apresenta os produtos de álcool gel de uma marca,Os produtos de uma marca de álcool gel estão sendo divulgados,1,Entailment,OK,N
+566,A menina está usando um vestido florido enquanto brinca,A menina está brincando com seu cachorro enquanto usa um vestido florido,2,Neutral,OK,N
+567,Uma mulher em uma bicicleta está parada em uma trilha e parecendo triste.,A mulher em uma bicicleta está vestindo um casaco azul.,2,Neutral,OK,N
+568,Dois rapazes estão usando trajes formais em uma cerimônia.,Há homens vestidos elegantemente em um evento.,1,Entailment,OK,N
+569,Um pedaço de maçã está deslizando sobre o homem,Não há maçã deslizando sobre o homem,0,Contradiction,OK,N
+570,"Quatro pescadores estão parados no cais, observando o horizonte com um telescópio",Um dos pescadores tem uma tatuagem de âncora no braço.,2,Neutral,OK,N
+571,Pesquisa revela que a maioria das promessas de ano novo não são cumpridas,Muitas pessoas fazem promessas de ano novo.,2,Neutral,OK,N
+572,Café expresso e café instantâneo orgânico estão disponíveis em uma prateleira de mercado,O café expresso está ao lado do pão integral na prateleira do mercado,2,Neutral,OK,N
+573,Um gato preto e branco está liberando o novelo de lã de suas garras,Um gato de duas cores está soltando um novelo de lã que estava em suas garras,1,Entailment,OK,N
+574,Um barco está sendo construído por um pescador com suas próprias mãos,O pescador não tem nenhum envolvimento na construção do barco.,0,Contradiction,OK,N
+575,"Uma garotinha, que usa botas amarelas, está sendo protegida por sua mãe sob um capuz de chuva",Uma garotinha está vestindo um casaco azul,2,Neutral,OK,N
+576,Dois indivíduos repousam com malas cheias e mantas aconchegantes,Dois indivíduos estão lendo um livro enquanto repousam,2,Neutral,OK,N
+577,O sujeito robusto está pensando em comprar uma bicicleta.,O sujeito robusto não tem interesse em bicicletas.,0,Contradiction,OK,N
+578,A pessoa está posando em um parque vestindo um vestido amarelo estampado com formigas pretas,A pessoa está segurando um livro no parque,2,Neutral,OK,N
+579,A equipe de voluntários e da defesa civil está posicionada ao lado das barracas,Os voluntários e a defesa civil estão ao lado das barracas,1,Entailment,OK,N
+580,Os eventos agora têm um novo prazo para inscrições,Os eventos receberão inscrições do exterior,2,Neutral,OK,N
+581,Um gato cinza e branco está deitado no tapete,O gato está deitado,1,Entailment,OK,N
+582,A pia da cozinha possui uma torneira feita de plástico,A torneira da pia da cozinha é de plástico,1,Entailment,OK,N
+583,Ele presenteou sua mãe com um lindo bonsai,Ele não deu nenhum presente para sua mãe,0,Contradiction,OK,N
+584,Uma cuíca está agarrada a um fino galho de planta,A cuíca está comendo frutas.,2,Neutral,OK,N
+585,Um médico está realizando um exame de nos vasos cervicais do paciente,O paciente está passando por um exame médico nos seus vasos cervicais,1,Entailment,OK,N
+586,O cachorro está correndo atrás do seu rabo,O cachorro está perseguindo seu próprio rabo.,1,Entailment,OK,N
+587,Um garoto de camisa azul está sentado,Existe um garoto vestindo azul sentado,1,Entailment,OK,N
+588,Um menino está jogando futebol em um campo de futebol de 5,O menino está jogando basquete em uma quadra de basquete,0,Contradiction,OK,N
+589,O time de futebol feminino está realizando alongamento antes do início do treino,O time de futebol feminino não está se alongando antes do treino,0,Contradiction,OK,N
+590,Vários casais estão dançando em uma quadra decorada com bandeirinhas e com piso azul,A decoração da quadra foi feita por um decorador profissional.,2,Neutral,OK,N
+591,O filhote de cachorro está comportando-se de maneira ansiosa.,O filhote de cachorro é um labrador.,2,Neutral,OK,N
+592,"Um gato ao lado de um muro, que certamente é de tijolos, está derrubando um vaso",O gato está derrubando um vaso que está ao lado de um muro de tijolos,1,Entailment,OK,N
+593,Uma caixinha de presente contém doces natalinos,A caixinha de presente está vazia,0,Contradiction,OK,N
+594,Um homem está de braços erguidos na calçada em frente a um exuberante ipê amarelo em plena floração,Há uma pessoa de braços erguidos na frente de um ipê amarelo florido.,1,Entailment,OK,N
+595,O vereador está defendendo o meio ambiente na orla da praia,O vereador está discursando sobre a preservação do meio ambiente.,1,Entailment,OK,N
+596,O homem preencheu vários cartões de aposta na lotérica,O homem não preencheu nenhum cartão de aposta,0,Contradiction,OK,N
+597,Um homem está tocando uma guitarra,O homem acabou de sair de um restaurante italiano.,2,Neutral,OK,N
+598,Dois indivíduos vestidos com casacos de inverno estão na terra branca formando bonecos de neve,Duas pessoas estão usando luvas brancas.,2,Neutral,OK,N
+599,Um smartphone exibe um possível cartão interativo de uma empresa,Um smartphone não está exibindo um cartão interativo de uma empresa,0,Contradiction,OK,N
+600,Uma mulher está fugindo de uma floresta em chamas,Uma mulher está caminhando calmamente em uma floresta pacífica.,0,Contradiction,OK,N
+601,O boneco de madeira está segurando um pote de balas,O boneco de madeira tem um pote de balas em suas mãos,1,Entailment,OK,N
+602,"Um grupo nordestino está tocando instrumentos tradicionais, incluindo sanfona, pandeiro, zabumba e triângulo","O grupo nordestino está tocando instrumentos modernos, como guitarra e bateria",0,Contradiction,OK,N
+603,"Uma mulher de cabelos cacheados, vestindo um vestido de manga curta, está em pé diante de uma porta e olha para o sol","Uma mulher de cabelos lisos, vestindo calças, está em pé diante de uma porta e olha para a lua.",0,Contradiction,OK,N
+604,Um homem de óculos está lendo um livro vermelho,O homem de óculos não está lendo um livro,0,Contradiction,OK,N
+605,O governador participa de uma reunião remota,O governador está em uma videoconferência,1,Entailment,OK,N
+606,Uma médica está mostrando informações em um tablet para seu paciente,A médica está informando seu paciente usando um tablet,1,Entailment,OK,N
+607,"Um grande grupo de pessoas se reúne, todas com as mãos levantadas para o céu",As pessoas estão cantando enquanto levantam as mãos para o céu,2,Neutral,OK,N
+608,Um artista não está pintando em um estúdio,O artista está lendo um livro.,2,Neutral,OK,N
+609,Não tem ninguém olhando o mural,O mural está sem espectadores,1,Entailment,OK,N
+610,Um par de tênis azul possui detalhes laranja,O par de tênis é totalmente preto,0,Contradiction,OK,N
+611,O cão está brincando com uma bola vermelha no jardim,O cão está dormindo na casinha.,0,Contradiction,OK,N
+612,A mulher observa os detalhes da fronha e lençol de elástico,A mulher está examinando os artigos de cama,1,Entailment,OK,N
+613,Uma sala está repleta de máquinas de caça-níqueis,A sala é bem iluminada,2,Neutral,OK,N
+614,Um homem não está cortando uma maçã,O homem está comendo uma maçã.,2,Neutral,OK,N
+615,O show contará com vários instrumentos musicais,Haverá uma variedade de instrumentos musicais no show.,1,Entailment,OK,N
+616,Os indivíduos estão comentando sobre as pinturas ao caminhar pelo corredor,Os indivíduos estão vestindo roupas formais.,2,Neutral,OK,N
+617,Uma raposa vermelha está pulando na floresta,Uma raposa de pelagem vermelha está saltando entre as árvores na floresta,1,Entailment,OK,N
+618,Uma mulher está adicionando uma xícara de chocolate em pó em uma panela de leite fervendo,A mulher está usando luvas de cozinha enquanto prepara a bebida,2,Neutral,OK,N
+619,Não tem nenhum cão mordendo um humano,Os humanos estão seguros de serem mordidos por cães.,1,Entailment,OK,N
+620,"Uma família está dentro do carro, admirando o pôr do sol na estrada",O carro da família é um modelo de luxo,2,Neutral,OK,N
+621,Uma mulher está sorrindo em uma cidade à beira do rio,A mulher está contente.,1,Entailment,OK,N
+622,Um homem de vermelho segura um livro verde na mão,Um homem com uma vestimenta vermelha está com um livro verde em sua mão,1,Entailment,OK,N
+623,Não há comida sendo devorada por um cachorro,Um cachorro não está comendo comida.,1,Entailment,OK,N
+624,Um passarinho está olhando para sua própria imagem refletida na água,O passarinho é amarelo.,2,Neutral,OK,N
+625,Quatro mulheres estão observando algo ao longe,As mulheres estão na praia.,2,Disagreement,OK,S
+626,Diversas duplas de alunos estão dançando forró no salão,Os alunos estão sentados em suas carteiras na sala de aula.,0,Contradiction,OK,N
+627,"Uma modelo está posando em um estúdio, vestindo uma blusa listrada branca e amarela e uma saia de sarja amarela com botões frontais",A modelo está em um estúdio vestindo roupas amarelas e brancas,1,Entailment,OK,N
+628,A travessa contém quibe assado e está coberta com um pano de cera estampado com frutas,A travessa está coberta.,1,Entailment,OK,N
+629,Vários skatistas adolescentes estão empurrando seus skates para o topo do parque inclinado,Adolescentes estão se movendo para o topo do parque com seus skates,1,Entailment,OK,N
+630,Uma mulher está despejando grãos de café em um moedor manual,Uma mulher está despejando grãos de café em um liquidificador,0,Contradiction,OK,N
+631,A questão central é a disposição para mudar a fim de alcançar a quantidade desejada de dinheiro,Alguém precisa estar disposto a mudar para atingir seus objetivos financeiros.,1,Entailment,OK,N
+632,Uma agenda exibe o ano com números cercados por um lápis,A agenda não tem nenhum número que indique o ano.,0,Contradiction,OK,N
+633,Não há nenhuma criança saltando no gramado e jogando bola com um amigo,Há um gato descansando no gramado.,2,Neutral,OK,N
+634,Um especialista está conduzindo um curso de limpeza de pele com alunos atentos observando a prática,O especialista está ensinando técnicas avançadas de limpeza de pele,2,Neutral,OK,N
+635,O gato listrado e cinza não está pulando e não há ninguém sentado ao lado,O gato listrado e cinza está brincando com um novelo de lã,2,Neutral,OK,N
+636,Os alunos adoraram a oficina de teatro,Os alunos gostaram da oficina de teatro.,1,Entailment,OK,N
+637,Um pote de barro contendo tremoços está posicionado sobre um azulejo decorativo com borda de madeira,Há uma colher ao lado do pote de barro.,2,Neutral,OK,N
+638,Os participantes criaram uma colagem com o nome do time,Uma colagem foi criada com o nome da equipe.,1,Confusing,P,S
+639,Uma pessoa com um cachorro dá dicas sobre o que fazer se o cachorro se soltar da coleira,A pessoa com o cachorro está dando dicas de jardinagem.,0,Contradiction,OK,N
+640,O menino pediu uma casquinha com sorvete de chocolate para seu pai,O menino pediu um sorvete de baunilha para seu pai,0,Contradiction,OK,N
+641,Um médico de jaleco está ao lado de indicadores pregados na parede,Um médico de jaleco está examinando os indicadores pregados na parede,2,Neutral,OK,N
+642,"O prato principal é peixe com cenoura e pepino, tudo decorado com uma flor vermelha",O prato é decorado com uma flor vermelha,1,Entailment,OK,N
+643,Um skatista está executando uma manobra em um half-pipe coberto de grafites coloridos,O half-pipe está localizado em um parque de skate público.,2,Neutral,OK,N
+644,Uma mulher não está lendo o jornal,Uma mulher está folheando um jornal,0,Contradiction,OK,N
+645,A viatura está se deslocando com o giroflex ligado,A viatura está transportando um detido,2,Neutral,OK,N
