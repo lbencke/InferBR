@@ -12,7 +12,6 @@ Below the description of each column in the files:
   * 0 –Contradiction
   * 1 –Entailment
   * 2 –Neutral
-* **premise_process**: the process used to generate the premise: A or B, as described in the paper.
 * **reviwers_output**: 	
   * “Disagreement”: the two reviewers assigned different labels for the pair of sentences and none of them flagged the instance as dubious or confusing text.
   * “Confusing”: at least one reviewer flagged the premise or the hypothesis of the instance as “confusing text”. The flag was reviewed by a third reviewer, who also confirmed that the text was confusing.
