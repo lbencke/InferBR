@@ -30,10 +30,25 @@ Below the description of each column in the files:
 If you use our dataset please cite us.
 
 ```bibtex
-@inproceedings{bencke2024lrec,
-  title={InferBR: a Natural Language Inference Dataset in Portuguese},
-  author={Bencke, Luciana and Pereira, Francielle Vasconcellos and Santos, Moniele Kunrath and Moreira, Viviane Pereira}
-  booktitle={Proceedings of the Joint International Conference on Computational Linguistics, Language Resources and Evaluation},
-  year={2024}
+@inproceedings{bencke-etal-2024-inferbr-natural,
+    title = "{I}nfer{BR}: A Natural Language Inference Dataset in {P}ortuguese",
+    author = "Bencke, Luciana  and
+      Pereira, Francielle Vasconcellos  and
+      Santos, Moniele Kunrath  and
+      Moreira, Viviane",
+    editor = "Calzolari, Nicoletta  and
+      Kan, Min-Yen  and
+      Hoste, Veronique  and
+      Lenci, Alessandro  and
+      Sakti, Sakriani  and
+      Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italy",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.793",
+    pages = "9050--9060",
+    
 }
 ```
